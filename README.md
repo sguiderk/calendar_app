@@ -1,6 +1,6 @@
 ## Background
 
-PHP application using a few design pattern mvc,solid principles,composer for dependencies
+PHP application using design pattern mvc,solid principles,composer for dependencies
 and docker-compose for setting up the environment with NGNIX
 and it provides a clean code with PSR0 and PSR4 for autoload,also the
 PSR1,PSR2,PSR3 ,and to style little bit the project with BOOTSTRAP 4

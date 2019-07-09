@@ -8,5 +8,3 @@ include_once(__DIR__ . '/app/Controllers/Controller.php');
 
 	$controller = new \CalendarApp\Controllers\Controller();
 	$controller->invoke();
-
-?>
