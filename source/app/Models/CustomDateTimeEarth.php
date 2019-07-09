@@ -1,10 +1,10 @@
 <?php
 
-namespace Traso\Models;
+namespace CalendarApp\Models;
 
 /**
  * Class CustomDateTimeEarth
- * @package Traso\Models
+ * @package CalendarApp\Models
  * @author      Samir GUIDERK <samir.guiderk@gmail.com>
  * @version     v.1.0 (07/06/2019)
  * @copyright   Copyright (c) 2019

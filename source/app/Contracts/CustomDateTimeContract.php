@@ -1,10 +1,10 @@
 <?php
 
-namespace Traso\Contracts;
+namespace CalendarApp\Contracts;
 
 /**
  * Interface CustomDateTimeContract
- * @package Traso\Contracts
+ * @package CalendarApp\Contracts
  * @author  Samir GUIDERK <samir.guiderk@gmail.com>
  * @version   v.1.0 (07/06/2019)
  * @copyright   Copyright (c) 2019

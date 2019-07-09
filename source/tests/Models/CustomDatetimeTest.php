@@ -1,15 +1,15 @@
 <?php
 
 
-namespace TrasTest\Models;
+namespace CalendarAppTest\Models;
 
-use Traso\Models\CustomDatetime;
-use TrasTest\UnitTest;
+use CalendarApp\Models\CustomDatetime;
+use CalendarAppTest\UnitTest;
 
 /**
  * Class CustomDatetimeTest
  * @author Samir GUIDERK <samir.guiderk@gmail.com>
- * @package TrasTest\Models
+ * @package CalendarAppTest\Models
  * @version     v.1.0 (07/06/2019)
  * @copyright   Copyright (c) 2019
  */

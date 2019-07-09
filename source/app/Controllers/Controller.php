@@ -1,13 +1,13 @@
 <?php
 
-namespace Traso\Controllers;
-use Traso\Models\CustomDatetimeBlue;
-use Traso\Models\CustomDateTimeEarth;
-use Traso\Models\CustomDateTimeRed;
+namespace CalendarApp\Controllers;
+use CalendarApp\Models\CustomDatetimeBlue;
+use CalendarApp\Models\CustomDateTimeEarth;
+use CalendarApp\Models\CustomDateTimeRed;
 
 /**
  * Class Controller
- * @package Traso\Controllers
+ * @package CalendarApp\Controllers
  * @author      Samir GUIDERK <samir.guiderk@gmail.com>
  * @version     v.1.0 (07/06/2019)
  * @copyright   Copyright (c) 2019

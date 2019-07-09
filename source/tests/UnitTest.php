@@ -1,6 +1,6 @@
 <?php
 
-namespace TrasTest;
+namespace CalendarAppTest;
 
 use PHPUnit\Framework\MockObject\Stub\ReturnValueMap;
 use PHPUnit\Framework\TestCase;
@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 /**
  * Class UnitTest
  * @author Samir GUIDERK <samir.guiderk@gmail.com>
- * @package TrasTest
+ * @package CalendarAppTest
  * @version     v.1.0 (07/06/2019)
  * @copyright   Copyright (c) 2019
  */

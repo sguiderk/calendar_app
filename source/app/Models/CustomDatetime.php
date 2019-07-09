@@ -1,11 +1,11 @@
 <?php
 
-namespace Traso\Models;
-use Traso\Contracts\CustomDateTimeContract;
+namespace CalendarApp\Models;
+use CalendarApp\Contracts\CustomDateTimeContract;
 
 /**
  * Class CustomDatetime
- * @package     Traso.
+ * @package     CalendarApp.
  * @author      Samir GUIDERK <samir.guiderk@gmail.com>
  * @version     v.1.0 (07/06/2019)
  * @copyright   Copyright (c) 2019

@@ -1,5 +1,5 @@
 {
-  "name": "sguiderk/Traso",
+  "name": "sguiderk/CalendarApp",
   "description": "an extra-ordinary calendar",
   "type": "library",
   "authors": [
@@ -17,8 +17,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Traso\\": "app",
-      "TrasTest\\": "tests"
+      "CalendarApp\\": "app",
+      "CalendarAppTest\\": "tests"
     }
   }
 }
